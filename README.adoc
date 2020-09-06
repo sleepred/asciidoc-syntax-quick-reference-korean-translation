@@ -1,0 +1,24 @@
+# asciidoc-syntax-quick-reference-korean-translation
+
+## 번역 문서 주소(URL)
+GitHub Pages의 다음 URL로 공개하고 있습니다. 
+https://sleepred.github.io/asciidoc-syntax-quick-reference-korean-translation/
+
+## 이 문서는 
+2020년 9월 9일 시점의 최신 [AsciiDoc Syntax Quick Reference](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)를 번역한 것입니다. 
+일부 의역하거나 내용을 추가했습니다. 
+학습 차원에서 번역했지만, Asciidoctor의 내용을 파악하는데 도움이 됐으면 합니다. 
+
+## Asciidoctor 란
+Asciidoctor는 Asciidoc로 작성된 콘텐츠를 HTML5, DocBook5, PDF로 변환하기 위한 도구입니다. 
+Ruby로 구현되어 있으며 RubyGem.org에서 패키지가 공개되어 있습니다.
+오픈소스로 Github에 호스트되어 있으며 MIT 라이선스입니다.
+
+## Asciidoc 이란
+Markdown과 같은 같은 경량 마크업 언어 중 하나입니다.
+Markdown보다 높은 표현력과 높은 가독성을 가졌으며 기술문서를 작성하기에 적합합니다.
+또한 Office 문장과 비교하더라도 텍스트 기반이므로 가볍고 GIT 등의 구성관리 도구와 잘 어울립니다. .
+
+
+
+
